@@ -6,7 +6,7 @@ Soverain Core integration/staging repository
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?&color=success)](https://github.com/soveraintg/Soverain/blob/master/LICENSE)
 [![Latest releases](https://img.shields.io/badge/Download-latest%20wallets%20release-green.svg?style=flat&logo=Skyliner&color=important)](https://github.com/soveraintg/Soverain/releases/tag/1.0.3.8)
 [![GitHub last commit](https://img.shields.io/github/last-commit/soveraintg/Soverain.svg?style=flat&logo=Github&color=informational)]()
-[![Discord Chat](https://img.shields.io/discord/576505960701493258.svg?style=flat&logo=Discord)](https://discord.gg/2swwERNbGb) 
+[![Discord Chat](https://img.shields.io/discord/802952116158988290/802952116603715604)](https://discord.gg/2swwERNbGb) 
 
 
 
