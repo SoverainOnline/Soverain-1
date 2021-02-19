@@ -28,4 +28,4 @@ Soverain Core integration/staging repository
 | Stake min. age        | 3 hours                                 |
 | Protocol Support      | IPV4, IPV6, TOR, I2P                    |
 
-You can learn more information about Soverain Technology Group and full coin specifications at [soverain.org](https://soverain.org)
+You can learn more information about Soverain Technology Group and full coin specifications at [soverain.online](https://soverain.online)
